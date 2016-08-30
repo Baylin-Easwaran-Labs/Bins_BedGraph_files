@@ -1,6 +1,6 @@
 # Bins_BedGraph_files
 
-This script imports bedGraph files and rebin them in predefine bins. 
+This script imports bedGraph files and rebin them in predefined bins. 
 
 Needs Python 3.5
 
