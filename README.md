@@ -23,4 +23,4 @@ Default Values:
 -t 0
 
 Example:
-python bedGraph.py -c 5 -i test -o out -s 100 -t 16
+python bedGraph_rebin.py -c 5 -i test -o out -s 100 -t 16
